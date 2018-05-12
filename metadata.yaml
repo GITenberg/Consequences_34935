@@ -25,6 +25,8 @@ description: "Unintended Consequences is a novel by John Ross, first published i
   \ Lady Justice being assaulted by an ATF agent.\nThe book was listed by The New\
   \ York Times' Sunday Book Review as one of the most sought after out-of-print books\
   \ of 2013.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34935#Consequences
 gutenberg_issued: '2011-01-12'
 gutenberg_type: Text
 identifiers:
