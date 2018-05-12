@@ -1,0 +1,48 @@
+_repo: Consequences_34935
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Delafield, E. M.
+    aliases:
+    - Dashwood, Elizabeth M.
+    - De La Pasture, Edmée Elizabeth Monica
+    birthdate: 1890
+    deathdate: 1943
+    gutenberg_agent_id: '37324'
+    url: http://www.gutenberg.org/2009/agents/37324
+    wikipedia: http://en.wikipedia.org/wiki/E._M._Delafield
+description: "Unintended Consequences is a novel by John Ross, first published in\
+  \ 1996 by Accurate Press. The story chronicles the history of the gun culture, gun\
+  \ rights, and gun control in the United States from the early 1900s through the\
+  \ late 1990s. Although clearly a work of fiction, the story is heavily laced with\
+  \ historical fact, including historical figures who play minor supporting roles.\
+  \ The protagonist is very active in competitive shooting sports, as is the author;\
+  \ so unusually detailed and intricate facts, figures and explanations of firearms-related\
+  \ topics, ornament the narrative and drive the plot.\nThe cover has a picture of\
+  \ Lady Justice being assaulted by an ATF agent.\nThe book was listed by The New\
+  \ York Times' Sunday Book Review as one of the most sought after out-of-print books\
+  \ of 2013.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2011-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34935'
+  wikidata: Q5162888
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'London (England) -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'London (England) -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Loneliness -- Fiction'
+- !lcsh 'Aristocracy (Social class) -- Fiction'
+- !lcsh 'Alienation (Social psychology) -- Fiction'
+- !lcc 'PR'
+title: Consequences
+url: http://www.gutenberg.org/ebooks/34935
+wikipedia:
+- https://en.wikipedia.org/wiki/Consequences_(novel)
